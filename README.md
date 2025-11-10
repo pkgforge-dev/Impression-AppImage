@@ -32,3 +32,8 @@ More at: [AnyLinux-AppImages](https://pkgforge-dev.github.io/Anylinux-AppImages/
 ## Known quirk
 
 - `udisks2` is required to be installed on the host for managing USB devices (same as upstream)
+- If for some reason Impression AppImage won't launch, it might be because of failure to read the XML file, which I think is the upstream issue.  
+  Read this reported issue and the solution:
+    - https://github.com/pkgforge-dev/Impression-AppImage/issues/3
+    - https://gitlab.com/adhami3310/Impression/-/issues/58
+    - https://bbs.archlinux.org/viewtopic.php?id=305503    
