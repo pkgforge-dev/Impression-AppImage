@@ -29,7 +29,7 @@ This appimage works without fuse2 as it can use fuse3 instead, it can also work 
 
 More at: [AnyLinux-AppImages](https://pkgforge-dev.github.io/Anylinux-AppImages/)
 
-## Known quirk
+## Known quirks
 
 - `udisks2` is required to be installed on the host for managing USB devices (same as upstream)
 - If for some reason Impression AppImage won't launch, it might be because of failure to read the XML file, which I think is the upstream issue.  
