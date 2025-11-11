@@ -4,7 +4,7 @@
 [![CI Build Status](https://github.com//pkgforge-dev/Impression-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Impression-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://gitlab.com/adhami3310/Impression/-/raw/main/data/resources/icons/hicolor/scalable/apps/io.gitlab.adhami3310.Impression.svg?ref_type=heads" />
+  <img src="https://gitlab.com/adhami3310/Impression/-/raw/main/data/resources/icons/hicolor/scalable/apps/io.gitlab.adhami3310.Impression.svg?ref_type=heads" width="128" />
 </p>
 
 * [Latest Stable Release](https://github.com/pkgforge-dev/Impression-AppImage/releases/latest)
