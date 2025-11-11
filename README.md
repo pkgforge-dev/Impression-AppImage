@@ -3,6 +3,10 @@
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Impression-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Impression-AppImage/releases/latest)
 [![CI Build Status](https://github.com//pkgforge-dev/Impression-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Impression-AppImage/releases/latest)
 
+<p align="center">
+  <img src="https://gitlab.com/adhami3310/Impression/-/raw/main/data/resources/icons/hicolor/scalable/apps/io.gitlab.adhami3310.Impression.svg?ref_type=heads" />
+</p>
+
 * [Latest Stable Release](https://github.com/pkgforge-dev/Impression-AppImage/releases/latest)
 
 ---
