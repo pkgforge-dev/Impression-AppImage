@@ -11,7 +11,6 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/icons/hicolor/scalable/apps/io.gitlab.adhami3310.Impression.svg
 export DESKTOP=/usr/share/applications/io.gitlab.adhami3310.Impression.desktop
 export DEPLOY_OPENGL=1
-export STARTUPWMCLASS=impression
 export GTK_CLASS_FIX=1
 
 # Trace and deploy all files and directories needed for the application (including binaries, libraries and others)
