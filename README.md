@@ -27,6 +27,10 @@ Self-updater doesn't run if AppImage managers like [am](https://github.com/ivan-
   </a>
 </details>
 
+More at: [AnyLinux-AppImages](https://pkgforge-dev.github.io/Anylinux-AppImages/)
+
 ---
 
-More at: [AnyLinux-AppImages](https://pkgforge-dev.github.io/Anylinux-AppImages/)
+## Known quirk
+
+- `udisks2` is required to be installed on the host for managing USB devices (same as upstream)
