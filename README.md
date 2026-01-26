@@ -1,3 +1,5 @@
+<div align="center">
+
 # Impression AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Impression-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Impression-AppImage/releases/latest)
@@ -8,7 +10,11 @@
   <img src="https://gitlab.com/adhami3310/Impression/-/raw/main/data/resources/icons/hicolor/scalable/apps/io.gitlab.adhami3310.Impression.svg?ref_type=heads" width="128" />
 </p>
 
-* [Upstream URL](https://gitlab.com/adhami3310/Impression)
+| Latest Stable Release | Upstream URL |
+| :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/Impression-AppImage/releases/latest) | [Click here](https://gitlab.com/adhami3310/Impression) |
+
+</div>
 
 ---
 
