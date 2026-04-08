@@ -6,9 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package and its dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm \
-            impression \
-            nss-mdns
+pacman -Syu --noconfirm impression
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
